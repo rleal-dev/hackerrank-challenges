@@ -7,7 +7,7 @@
  *    2. The sum of 'firstDecimal' and the Number representation of 'secondDecimal'.
  *    3. The concatenation of 'firstString' and 'secondString' ('firstString' must be first).
  *
- *	Parameter(s):
+ *  Parameter(s):
  *    secondInteger - The string representation of an integer.
  *    secondDecimal - The string representation of a floating-point number.
  *    secondString - A string consisting of one or more space-separated words.
