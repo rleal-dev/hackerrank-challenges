@@ -29,3 +29,6 @@ function getPerimeter(length, width) {
     
     return perimeter;
 }
+
+console.log(getArea(3, 4.5));
+console.log(getPerimeter(3, 4.5));
